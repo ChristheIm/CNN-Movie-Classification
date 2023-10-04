@@ -60,7 +60,7 @@ This project aims to classify the genre of movies based on their poster images u
 - Train the model using the training data and validate it using the validation data.
 - Save the model after training.
 
-### Model Evaluation
+# Model Evaluation
 - Evaluate the model using the test set.
 - Utilize metrics like accuracy, precision, recall, F1-score, and ROC-AUC for evaluation.
 - Analyze the confusion matrix to understand misclassification.
