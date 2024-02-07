@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-Request Model for access
-=======
 Request Access for the model
->>>>>>> Stashed changes
+
 
 https://drive.google.com/drive/u/0/folders/19dBFLo1WE_f9EVy_P0wzoIvrNjkbrhcW
