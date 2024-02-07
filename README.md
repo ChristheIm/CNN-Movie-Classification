@@ -73,6 +73,10 @@ Preprocess the input movie poster.
 Use the model to predict the genre probabilities.
 Decode the predicted probabilities to genre labels.
    
+#### Result
+According to the model, among 3 category the model was able to predict correctly on the one part of the genre
+![Result](result/result.png)
+
 ## Conclusion and Analysis
 
 Model Architecture and Training:
